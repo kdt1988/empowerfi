@@ -1,0 +1,10 @@
+ # dependencies
+ node_modules
+pnpm-lock.yaml
+ # builds
+ /dist
+ /build
+ # misc
+ .DS_Store
+ .env
+ .env.*
